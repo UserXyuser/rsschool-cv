@@ -23,8 +23,7 @@ documentation for manufacture, designed of instruction for testing of individual
         4) *August 2020 - till present*: Worked as electronic engineer III category in a company [__“ROSNA Engineering”__](http://rosna.spb.ru/), which provided engineering services for various manufacturing. Specifically, I worked at the prodaction site “LMZ” of “Power Machienes”.\
         **Responsibilities**: Maintenance, diagnostics and repair of CNC machienes (Siemens CNC systems like Sinumerik-828d and Sinumerik-840d).
 4) ## Skills:
-    MS office (Word, Excel, Power Point), CAD systems (OrCAD, Multisim,
-AltiumDesigner, Compas 3D), CAE systems (Mathcad, MATLAB, LabVIEW), C-programming for embedded systems (microcontrollers AVR, arduino, STM-32).
+    MS office (Word, Excel, Power Point), CAD systems (OrCAD, Multisim, AltiumDesigner, Compas 3D), CAE systems (Mathcad, MATLAB, LabVIEW), C-programming for embedded systems (microcontrollers AVR, arduino, STM-32), mounting of radioelements (soldering SMD, DIP and SOIC).
 5) ## Code examples:
     none
 6) ## Developer's experience:
