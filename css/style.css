@@ -1,0 +1,108 @@
+:root {
+	font-family: 'Montserrat', sans-serif; 
+}
+
+.wrapper {
+	height: 100vh;
+}
+
+.base {
+	width: 70%;
+	margin-left: 30%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.sidebar {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	position: absolute;
+	height: 925px;
+	width: calc(30% - 20px);
+	padding: 20px 10px;
+	background-color: #2E8B57;
+	line-height: 1.5em;
+}
+
+.user img {
+	display: block;
+	width: 25%;
+	margin: 0 auto;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 61px 17px rgba(116,199,48,1);
+	-moz-box-shadow: 0px 0px 61px 17px rgba(116,199,48,1);
+	box-shadow: 0px 0px 61px 17px rgba(116,199,48,1);
+}
+
+.user div.name {
+	margin-top: 30px;
+	text-align: center;
+	font-weight: 900;
+	color: #ADFF2F;
+	text-transform: uppercase;
+}
+
+.contacts ul {
+	display: flex;
+	flex-direction: column;
+}
+
+.contacts ul li div {
+	margin: 0;
+	padding: 0;
+}
+
+.skills ul li span {
+	font-weight: 700;
+}
+
+.address div:first-child, .telephone div:first-child, .mobile div:first-child, .email div:first-child {
+	padding-left: 45px;
+	line-height: 2em;
+	font-weight: 700;
+}
+
+.contacts div, .skills div, .languages div{
+	display: block;
+	padding: 0 80px;
+	margin: 20px 0;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 900;
+}
+
+.objective div, .work_experience div, .education div, .achievements div{
+	padding: 0 300px;
+	margin: 20px 0;
+}
+
+.base p {
+	padding: 0 20px;
+	font-family: 'Roboto Slab', sans-serif;
+	text-align: justify;
+	line-height: 1.5em;
+	text-indent: 1.5em;
+}
+
+.work_experience ol li p:first-child {
+	font-weight: 900;
+}
+
+.achievements ol {
+	list-style-type: decimal;
+}
+
+.achievements ol li {
+	display: flex;
+	justify-content: space-between;
+}
+
+.achievements ol li p:first-child {
+	font-weight: 900;
+}
